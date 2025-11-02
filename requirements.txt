@@ -6,3 +6,4 @@ scikit-learn
 pydub
 joblib
 streamlit-audiorecorder
+soundfile
